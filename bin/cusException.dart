@@ -19,5 +19,6 @@ void main(){
   }on NoData{
     print("null data");
   }
+  print("after exception");
 
 }
